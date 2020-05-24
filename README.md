@@ -1,7 +1,7 @@
 # Introduction
 
 **AMMSoCK** is an abbreviation for **A** **M**anifold Based **M**odel Reduction **So**ftware
-for **C**hemical **K**inetics. The software implements the TBOA in order
+for **C**hemical **K**inetics. The software implements the Trajectory Based Optimization Approach (TBOA) of Lebiedz et al. in order
 to numerically approximate slow invariant manifolds which can be used
 to reduce chemical kinetics by utilizing the species reconstruction method
 
